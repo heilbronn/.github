@@ -4,7 +4,7 @@ Here we're providing some open-source repositories.
 
 They are related to Heilbronn, the german AI capital.
 
-Get it touch today!
+Get in touch today!
 
 ## You can contribute! ❤️
 
